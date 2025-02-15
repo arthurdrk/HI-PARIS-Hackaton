@@ -1,5 +1,4 @@
 # HI!PARIS Hackathon 2024
-<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/9dd2524b-f770-4cd9-a6f9-5f571f7ceb21" />
 
 Projet réalisé en équipe de 6 et en 48h dans le cadre du Hackaton organisé par H!PARIS, l'Institut Polytechnique de Paris et HEC Paris. 
 
